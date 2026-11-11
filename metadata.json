@@ -1,0 +1,6 @@
+{
+  "name": "SaiKrishna Graphics & Offset - Self-Service Print Kiosk",
+  "description": "Smart QR kiosk and self-print dispatch system for SaiKrishna Graphics & Offset with automated page counting, Xerox & Colour printer routing, instant UPI billing, and live queue assignment.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
